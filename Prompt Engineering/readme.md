@@ -1,4 +1,4 @@
-Get to know about this here
+Get to know about the workshop/hackathon here
 
 https://amritaaie.github.io/codebot/index.html#home
 
